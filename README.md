@@ -60,3 +60,15 @@ All practical activities documented in this repository are performed in my own i
 - Identified source IP addresses and repeated authentication failures.
 
 [View Project](./01-SSH-Brute-Force-Detection/)
+
+
+
+### 2. Failed Login Followed by Successful Login Investigation
+
+- Investigated repeated SSH authentication failures followed by successful authentication.
+- Analyzed source IP addresses and targeted usernames.
+- Built authentication timelines using Splunk.
+- Correlated failed and successful login events using SPL.
+- Evaluated potential account compromise and documented SOC response recommendations.
+
+[View Project](./02-Failed-Login-Success-Investigation/)
