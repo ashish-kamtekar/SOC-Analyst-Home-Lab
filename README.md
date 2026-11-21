@@ -49,3 +49,14 @@ My home lab consists of:
 ## Disclaimer
 
 All practical activities documented in this repository are performed in my own isolated lab environment for educational purposes.
+
+
+## Completed Projects
+
+### 1. SSH Brute Force Detection Using Splunk
+- Simulated SSH authentication failures in a controlled lab.
+- Forwarded Linux authentication logs to Splunk.
+- Investigated failed login attempts using SPL.
+- Identified source IP addresses and repeated authentication failures.
+
+[View Project](./01-SSH-Brute-Force-Detection/)
