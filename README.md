@@ -72,3 +72,16 @@ All practical activities documented in this repository are performed in my own i
 - Evaluated potential account compromise and documented SOC response recommendations.
 
 [View Project](./02-Failed-Login-Success-Investigation/)
+
+
+
+### 3. Port Scan Detection & Investigation
+
+- Generated controlled port scanning activity against a lab target using Nmap.
+- Captured network traffic using tcpdump.
+- Analyzed TCP connection attempts and packets using Wireshark.
+- Identified source IPs, destination IPs, and targeted ports.
+- Analyzed connection activity using Splunk.
+- Created SPL queries to identify potential port scanning patterns.
+
+[View Project](./03-Port-Scan-Detection/)
